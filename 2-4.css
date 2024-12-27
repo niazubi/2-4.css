@@ -1,0 +1,160 @@
+#imgfirst {
+    background-image: url("image.svg");
+    width: 1400px;
+    height: 674px;
+}
+
+
+#lorem {
+    color: #FFF;
+    font-size: 44.452px;
+}
+
+#mainsecond {
+    margin: 0 auto;
+    margin-top: 115px;
+    width: 1137px;
+    padding: 40px 32px;
+    border-radius: 24px;
+    background: #EBF8FE;
+    margin-bottom: 72px;
+}
+
+#secondheader {
+    align-items: center;
+    color: #181D27;
+    font-family: "Inria Sans";
+    font-size: 64px;
+
+}
+
+#textsecond {
+    color: #535862;
+    font-family: "Instrument Sans";
+    font-size: 32px;
+
+}
+
+#form {
+
+    width: 345px;
+    height: 74px;
+    margin: 0 auto;
+}
+
+#email {
+    padding: 12px 14px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+}
+
+#subscribe {
+    color: #FFF;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #007CB8;
+}
+
+
+
+#wecare {
+    color: #535862;
+    font-size: 14px;
+    font-style: normal;
+
+}
+
+#mainthird {
+    width: 546px;
+    padding: 40px 32px;
+    align-items: flex-start;
+    gap: 24px;
+    border-radius: 24px;
+    background: #EBF8FE;
+}
+
+h1 {
+    color: #181D27;
+    font-family: "Inria Sans";
+    font-size: 40px;
+}
+
+#nameandemail {
+    display: inline-block;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+
+.nameandemail label {
+    display: block;
+}
+
+#mainthird {
+    margin: 0 auto;
+
+}
+
+#emailone {
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+
+    border: 1px solid #380054;
+}
+
+#name {
+    background-color: #EBF8FE;
+    padding: 8px 16px;
+    align-items: center;
+    align-self: stretch;
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 482px;
+}
+
+#emailone {
+    background-color: #EBF8FE;
+    width: 482px;
+}
+
+#namee {
+    color: #1B003D;
+    margin-bottom: 8px;
+}
+
+#emaill {
+    color: #1B003D;
+    margin-bottom: 8px;
+}
+
+input::placeholder {
+    color: #6D5F8B;
+}
+
+#recomment {
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+}
+
+#radioinput {
+    margin-left: 32px;
+}
+
+#checkboxes {
+    margin-left: 32px;
+}
+
+#language {
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+    font-style: normal;
+}
